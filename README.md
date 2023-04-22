@@ -9,5 +9,5 @@ Ele se adapta a aos dados passados desde que tenha a mesma estrutura apresentada
 na imagem 1.<br>
 Depois disso, o usuário pode ordenar os itens em ordem crescente clicando<br>
 na coluna desejada.<br>
-veja você mesmo os itens mudando a ordem <a href="https://lucaslessaanacleto.github.io/ordenando-tabela/" target="_blank">aqui</a>
+veja você mesmo os itens mudando a ordem <a href="https://lucaslessaanacleto.github.io/ordenando-tabela/">aqui</a>
 
